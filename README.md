@@ -1,4 +1,8 @@
 # pydeeplearn: a Python Deep Learning Library
+
+## 用法
+下载stanford的词向量会失败。去对应网页找glove.6B.zip，然后把里面的对应文件提取出来再用7zip压缩成gz格式就行了。
+
 ## Introduction
 pydeeplearn is a simple deep learning library *written from scratch entirely in Python*. It is not meant to be a production-quality library (for that, check out Caffe, Theano, Mocha, Torch, or Deeplearning4j). I wrote this in my free time as an exercise and I am releasing the code for others to learn from. With that said, the codebase could definitely use more asserts and/or comments.
 
